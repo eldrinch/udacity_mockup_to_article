@@ -1,9 +1,10 @@
 You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
   * What new skills have you learned?
+  Aprendi muitas coisas como identação, relação pai e filho e como isso afeta a identação para um melhor entendimento do codigo
   * What has been easy?
+  Facil nao é tem,  muito detalles, precisa se ter cuidado na hora de formatar a pagina. 
   * What has been difficult?
+  Dificuldades não tem ate agora uma boa pesquisa resolve as dudas
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
-
+ O Curso e muito explicativo, a estrategia e seguir as dicas que se dam, apontar em um documento para logo poder consultar caso exista duvidas
 ---
-
-Your response goes here!
